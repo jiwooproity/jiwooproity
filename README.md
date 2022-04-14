@@ -19,12 +19,12 @@
 
 | TITLE |WEBSITE URL|
 |---|---|
-|Bravegirls Fan Website 1|http://jiwooproity.dothome.co.kr/|
-|Bravegirls Fan Website 2|http://bglovely.com/|
-|Minecraft Skin Cloud|http://www.skinclouds.net/|
-|Crypto Tracker|https://jiwooproity.github.io/Crypto_Tracker/|
-|Self Introduction|http://jiwooproity.dothome.co.kr/Self_Introduction/index.html|
-|Chatting Room|http://jiwooproity.dothome.co.kr/LikeTalk/login.php|
+|:purple_heart: Bravegirls Fan Website 1|[Bravegirls Website - First](http://jiwooproity.dothome.co.kr/)|
+|:yellow_heart: Bravegirls Fan Website 2|[Bravegirls Website - Second](http://bglovely.com/)|
+|:star: Minecraft Skin Cloud|[SKINCLOUDS](http://www.skinclouds.net/)|
+|:chart_with_upwards_trend: Crypto Tracker|[CRYPTO TRACKER](https://jiwooproity.github.io/Crypto_Tracker/)|
+|:smirk: Self Introduction|[My Story](http://jiwooproity.dothome.co.kr/Self_Introduction/index.html)|
+|:speech_balloon: Chatting Room|[LikeTalk](http://jiwooproity.dothome.co.kr/LikeTalk/login.php)|
 
 ## With ...
 
