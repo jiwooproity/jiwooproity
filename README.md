@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,50&height=250&section=header&text=Front-End&fontSize=80&fontAlignY=41)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,50&height=250&section=header&text=Front-End%20Developer&fontSize=80&fontAlignY=41)
 
 <p>Hello, My name is Sojiwoo</p>
 <p>Nice to meet you</p>
