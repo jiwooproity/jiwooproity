@@ -18,14 +18,14 @@
 
 <h4># MY PROJECT</h4>
 
-| TITLE |WEBSITE URL|
-|---|---|
-|:purple_heart: Bravegirls Fan Website 1|[Bravegirls Website - First](http://jiwooproity.dothome.co.kr/)|
-|:yellow_heart: Bravegirls Fan Website 2|[Bravegirls Website - Second](http://bglovely.com/)|
-|:star: Minecraft Skin Cloud|[SKINCLOUDS](http://www.skinclouds.net/)|
-|:chart_with_upwards_trend: Crypto Tracker|[CRYPTO TRACKER](https://jiwooproity.github.io/Crypto_Tracker/)|
-|:smirk: Self Introduction|[My Story](http://jiwooproity.dothome.co.kr/Self_Introduction/index.html)|
-|:speech_balloon: Chatting Room|[LikeTalk](http://jiwooproity.dothome.co.kr/LikeTalk/login.php)|
+|TITLE|WEBSITE URL|USED|
+|---|---|---|
+|:purple_heart: Bravegirls Fan Website 1|[Bravegirls Website - First](http://jiwooproity.dothome.co.kr/)|HTML, CSS, JS, PHP|
+|:yellow_heart: Bravegirls Fan Website 2|[Bravegirls Website - Second](http://bglovely.com/)|ReactJS, Styled Components, PHP|
+|:star: Minecraft Skin Cloud|[SKINCLOUDS](http://www.skinclouds.net/)|ReactJS, PHP, Cloudinary|
+|:chart_with_upwards_trend: Crypto Tracker|[CRYPTO TRACKER](https://jiwooproity.github.io/Crypto_Tracker/)|ReactJS, Styled Components, API|
+|:smirk: Self Introduction|[My Story](http://jiwooproity.dothome.co.kr/Self_Introduction/index.html)|HTML, CSS, JS|
+|:speech_balloon: Chatting Room|[LikeTalk](http://jiwooproity.dothome.co.kr/LikeTalk/login.php)|HTML, CSS, PHP|
 
 ## With ...
 
