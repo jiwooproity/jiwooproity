@@ -10,6 +10,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/jiwooproity)](https://github.com/jiwooproity) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jiwooproity)](https://www.facebook.com/jiwooproity) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so.jiwoo_23/)](https://www.instagram.com/so.jiwoo_23/)
 
 <div style="text-align: center;">
+  <h1>SKILL</h1>
   <h4># Platforms & Languages & Tools</h4>
 </div>
 
