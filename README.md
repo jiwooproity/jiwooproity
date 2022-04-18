@@ -24,6 +24,7 @@
 |:chart_with_upwards_trend: Crypto Tracker|[CRYPTO TRACKER](https://jiwooproity.github.io/Crypto-Tracker/)|ReactJS, Styled Components, Open API|
 |:smirk: Self Introduction|[My Story](http://jiwooproity.dothome.co.kr/Self_Introduction/index.html)|HTML, CSS, JS|
 |:speech_balloon: Chatting Room|[LikeTalk](http://jiwooproity.dothome.co.kr/LikeTalk/login.php)|HTML, CSS, PHP|
+|Little Cinema|[MIN CINEMA](https://jiwooproity.github.io/React-MinCinema/)|ReactJS, Styled Components, Open API|
 
 ## With ...
 
