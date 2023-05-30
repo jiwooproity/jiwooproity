@@ -37,6 +37,7 @@
 <div style="display: flex; align-items: center">
   <img src="https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
   <img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" />
   <img src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black" />
 </div>
