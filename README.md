@@ -30,12 +30,12 @@
   <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
 </div>
 
 #### 🛒 Will Use ...
 관심이 있고, 학습 예정인 기술들입니다.
 <div style="display: flex; align-items: center">
-  <img src="https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
   <img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" />
