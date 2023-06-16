@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
   <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />
 </div>
 
@@ -30,7 +31,6 @@
   <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
 </div>
 
 #### 🛒 Will Use ...
