@@ -23,7 +23,7 @@
 </div>
 
 #### ⚙ Tried or Learning Skill
-학습 중이거나 프로젝트 적용 경험이 있는 라이브러리 혹은 프레임워크입니다.
+학습 중이거나 프로젝트 적용 경험이 있는 언어 혹은 라이브러리와 프레임워크입니다.
 <div style="display: flex; align-items: center">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node.js&logoColor=white" />
