@@ -62,3 +62,5 @@
 
 --
 ##### ✉ Contact
+jiwooproity@naver.com
+mirrorstales@gmail.com
