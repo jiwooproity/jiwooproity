@@ -1,5 +1,5 @@
 #### Hi, I'm front-end developer
-<span style="font-weight: 400">안녕하세요, 1년 차 프론트엔드 개발자 소지우입니다.</span></br>
+<span style="font-weight: 400">안녕하세요, 2년 차 프론트엔드 개발자 소지우입니다.</span></br>
 
 --
 
