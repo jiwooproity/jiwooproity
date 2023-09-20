@@ -58,7 +58,6 @@
 |react-converter|Styled-Components, React, Electron|회사에서 맡은 프로젝트 다국어 적용 시간을 단축하기 위해 만든 다국어 변환 툴입니다.|
 |keyboard-checker|Webpack5, SCSS, React, Electron|웹 혹은 응용 프로그램으로 키보드 키 입력 상태를 확인할 수 있습니다.|
 |daily-commit-bot|Node.js, Discord.js|매일 오후 6시마다 커밋을 완료하였는 지 확인하고, 알림을 전달합니다.|
-|next-portfolio-story|SCSS, Next, Notion API|노션에 정리된 포트폴리오 내용을 화면으로 확인할 수 있습니다.|
 
 --
 ##### ✉ Contact
