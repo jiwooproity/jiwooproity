@@ -62,3 +62,4 @@
 --
 ##### ✉ Contact
 jiwooproity@naver.com
+<a href="https://www.notion.so/Resume-1579598f11a14aa5bfc83c3606914732?pvs=4">Notion</a>
