@@ -54,7 +54,7 @@
 |프로젝트 명|스택|설명|
 |----------|--------|--------|
 |<a href="https://www.notion.so/BraveGirls-Fan-Web-ba8425bd547547b1bfa5a32689bd6e87" target="_blank">bravegirls-fansite</a>|Styled-Components, React, PHP|브레이브걸스 그룹의 팬 사이트입니다.|
-|minecraft-skinclouds|Styled-Components, React, Three.js, PHP|다양한 마인크래프트 스킨을 3D 형태로 볼 수 있고, 다운로드와 업로드가 가능합니다.|
+|<a href="http://www.skinclouds.net/">minecraft-skinclouds</a>|Styled-Components, React, Three.js, PHP|다양한 마인크래프트 스킨을 3D 형태로 볼 수 있고, 다운로드와 업로드가 가능합니다.|
 |<a href="https://www.notion.so/INTL-Converter-14e2e28db849461891887f072ed6f1e8" target="_blank">react-converter</a>|Styled-Components, React, Electron|회사에서 맡은 프로젝트 다국어 적용 시간을 단축하기 위해 만든 다국어 변환 툴입니다.|
 |<a href="https://www.notion.so/KeyBoard-Test-Application-abf03df37d2348c8b9c237a09c4cfb10" target="_blank">keyboard-checker</a>|Webpack5, SCSS, React, Electron|웹 혹은 응용 프로그램으로 키보드 키 입력 상태를 확인할 수 있습니다.|
 |<a href="https://www.notion.so/Daily-Commit-Bot-c337d5d8eeb34305bad052bdb4b795ed" target="_blank">daily-commit-bot</a>|Node.js, Discord.js|매일 오후 6시마다 커밋을 완료하였는 지 확인하고, 알림을 전달합니다.|
