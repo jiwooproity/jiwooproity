@@ -33,32 +33,6 @@
   <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </div>
 
-#### 🛒 Will Use ...
-관심이 있고, 학습 예정인 기술들입니다.
-<div style="display: flex; align-items: center">
-  <img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black" />
-</div>
-
-#### ☕ Tried Infra Skill ...
-인프라 관련 도구를 다뤄본 내용입니다.
-<div style="display: flex; align-items: center">
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div></br>
-
---
-#### 🖼 Side Projects ...
-|프로젝트 명|스택|설명|
-|----------|--------|--------|
-|<a href="https://www.notion.so/BraveGirls-Fan-Web-ba8425bd547547b1bfa5a32689bd6e87" target="_blank">bravegirls-fansite</a>|Styled-Components, React, PHP|브레이브걸스 그룹의 팬 사이트입니다.|
-|<a href="http://www.skinclouds.net/">minecraft-skinclouds</a>|Styled-Components, React, Three.js, PHP|다양한 마인크래프트 스킨을 3D 형태로 볼 수 있고, 다운로드와 업로드가 가능합니다.|
-|<a href="https://www.notion.so/INTL-Converter-14e2e28db849461891887f072ed6f1e8" target="_blank">react-converter</a>|Styled-Components, React, Electron|회사에서 맡은 프로젝트 다국어 적용 시간을 단축하기 위해 만든 다국어 변환 툴입니다.|
-|<a href="https://www.notion.so/KeyBoard-Test-Application-abf03df37d2348c8b9c237a09c4cfb10" target="_blank">keyboard-checker</a>|Webpack5, SCSS, React, Electron|웹 혹은 응용 프로그램으로 키보드 키 입력 상태를 확인할 수 있습니다.|
-|<a href="https://www.notion.so/Daily-Commit-Bot-c337d5d8eeb34305bad052bdb4b795ed" target="_blank">daily-commit-bot</a>|Node.js, Discord.js|매일 오후 6시마다 커밋을 완료하였는 지 확인하고, 알림을 전달합니다.|
-
 --
 ##### ✉ Contact
 jiwooproity@naver.com
