@@ -15,11 +15,10 @@
 jiwooproity@naver.com
 
 #### Farm
-
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/farms/jiwooproity"
+    src="https://render.gitanimals.org/farms/jiwooproity?13"
     width="846"
     height="423"
-  />
+    alt="preview farm" />
 </a>
