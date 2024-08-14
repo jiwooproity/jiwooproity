@@ -1,24 +1,23 @@
-#### Hi, I'm front-end developer
-<span style="font-weight: 400">안녕하세요, 2년 차 프론트엔드 개발자 소지우입니다.</span></br>
+# 🙌<br/>Hi, developers ―<br/>Thank you for visiting to my profile
 
-#### Skill
-주로 사용하는 기술 스택입니다.
-<div style="display: flex; align-items: center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/webpack5-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
-</div>
+My name is So Jiwoo, Front-end developer.
 
-#### Contact
-jiwooproity@naver.com
+제 이름은 소지우이며, 프론트엔드 개발자입니다.
 
-#### Farm
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/jiwooproity?13"
-    width="600"
-    height="300"
-    alt="preview farm" />
-</a>
+### Some about me
+
+< Work /> : I'm currently working as a Front-end developer at Dejay.
+
+< Hobby /> : I like assemble custom keyboard, and develop
+
+### Some skills
+
+```
+{
+  "frontend": {
+    "skills": ["html", "css", "javascript", "typescript", "react", "next.js"]
+  },
+}
+```
+
+### ― See you again
