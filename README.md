@@ -10,20 +10,20 @@ My name is So Jiwoo, Front-end developer.
 
 < Hobby /> : I like assemble custom keyboard, and develop some software.
 
-< Status /> : Recently, I am studying English for open source contribution activities.
+< Status /> : Recently, I am studying English for open source contribution activities and learning rust language
 
-### Some skills
+### Some technologies I work with
 
 ```json
 {
   "frontend": ["html", "css", "javascript", "typescript", "react", "next.js"],
   "backend": ["javascript", "typescript", "node.js", "express"],
-  "ops_alpha": ["linux", "docker", "github-actions", "ssh", "zsh", "git"],
+  "ops_alpha": ["linux", "docker", "github-actions", "jenkins", "ssh", "zsh", "git"],
   "hobby": ["rust"]
 }
 ```
 
-### Contact & Portfolios
+### My contact or portfolio
 
 ```typescript
 import axios from "axios";
