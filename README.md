@@ -8,7 +8,9 @@ My name is So Jiwoo, Front-end developer.
 
 < Work /> : I'm currently working as a Front-end developer at Dejay.
 
-< Hobby /> : I like assemble custom keyboard, and develop
+< Hobby /> : I like assemble custom keyboard, and develop some software.
+
+< Status /> : Recently, I am studying English for open source contribution activities.
 
 ### Some skills
 
@@ -18,6 +20,36 @@ My name is So Jiwoo, Front-end developer.
   "backend": ["javascript", "typescript", "node.js", "express"],
   "ops_alpha": ["linux", "docker", "github-actions", "ssh", "zsh", "git"],
   "hobby": ["rust"]
+}
+```
+
+### Contact & Portfolios
+
+```typescript
+import axios from "axios";
+
+const getContactList = () => {
+  return axios.get("https://api.jiwoo.so/contact");
+};
+
+(async () => {
+  const { data: response } = await getContactList();
+  console.log(response);
+});
+```
+
+#### Response
+
+```console
+{
+  "blog": "https://jiwooproity.tistory.com/",
+  "notion": "https://organized-jellyfish-19b.notion.site/1579598f11a14aa5bfc83c3606914732?pvs=4",
+  "email": "jiwooproity@naver.com",
+  "websites": [
+    "https://www.jiwoo.so/",
+    "https://bglovely.com/",
+    "http://www.skinclouds.net/"
+  ],
 }
 ```
 
