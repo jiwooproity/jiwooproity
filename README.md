@@ -18,7 +18,6 @@ My name is So Jiwoo, Front-end developer.
   "backend": ["javascript", "typescript", "node.js", "express"],
   "ops_alpha": ["linux", "docker", "github-actions", "ssh", "zsh", "git"],
   "hobby": ["rust"]
-  }
 }
 ```
 
