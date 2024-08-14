@@ -1,4 +1,4 @@
-# 🙌<br/>Hi, developers ―<br/>Thank you for visiting to my profile
+# 👋<br/>Hi, developers ―<br/>Thank you for visiting to my profile
 
 My name is So Jiwoo, Front-end developer.
 
@@ -12,12 +12,14 @@ My name is So Jiwoo, Front-end developer.
 
 ### Some skills
 
-```
+```json
 {
-  "frontend": {
-    "skills": ["html", "css", "javascript", "typescript", "react", "next.js"]
-  },
+  "frontend": ["html", "css", "javascript", "typescript", "react", "next.js"],
+  "backend": ["javascript", "typescript", "node.js", "express"],
+  "ops_alpha": ["linux", "docker", "github-actions", "ssh", "zsh", "git"],
+  "hobby": ["rust"]
+  }
 }
 ```
 
-### ― See you again
+### ― See you again 🙌
