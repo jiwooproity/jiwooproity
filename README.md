@@ -35,7 +35,7 @@ const getContactList = () => {
 (async () => {
   const { data: response } = await getContactList();
   console.log(response);
-});
+})();
 ```
 
 #### Response
