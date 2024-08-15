@@ -1,6 +1,6 @@
 # 👋<br/>Hi, developers ―<br/>Thank you for visiting to my profile
 
-My name is So Jiwoo, Front-end developer.
+My name is So Jiwoo as a Front-end developer.
 
 제 이름은 소지우이며, 프론트엔드 개발자입니다.
 
