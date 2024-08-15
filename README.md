@@ -1,16 +1,19 @@
 # 👋<br/>Hi, developers ―<br/>Thank you for visiting to my profile
 
-My name is So Jiwoo as a Front-end developer.
+I'm Jiwoo So, a Front-end developer.
 
 저는 프론트엔드 개발자를 맡고 있는 소지우입니다.
 
 ### Some about me
 
-< Work /> : I'm currently working as a Front-end developer at Dejay.
+< Work /> ―  
+I'm currently working in a company named Dejay.
 
-< Hobby /> : I like assemble custom keyboard and develop anything software.
+< Hobby /> ―    
+I like to build custom keyboards and also develop various kinds of softwares.
 
-< Status /> : Recently, I am studying English for open source contribution activities and learning rust language
+< Status /> ―   
+I'm recently studying English and Rust language. English is to contribute more in open source activities, and Rust language is just for my expansion in knowledge.
 
 ### Some technologies I work with
 
