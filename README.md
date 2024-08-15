@@ -8,7 +8,7 @@ My name is So Jiwoo as a Front-end developer.
 
 < Work /> : I'm currently working as a Front-end developer at Dejay.
 
-< Hobby /> : I like assemble custom keyboard, and develop some software.
+< Hobby /> : I like assemble custom keyboard and develop anything software.
 
 < Status /> : Recently, I am studying English for open source contribution activities and learning rust language
 
