@@ -58,4 +58,4 @@ const getContactList = () => {
 
 ### ― See you again 🙌
 
-If you want learning English together, come to my [Duolingo](https://www.duolingo.com/u/1516435107) for add friend!!
+If you want to learning English together, come to my [Duolingo](https://www.duolingo.com/u/1516435107) for add friend!!
