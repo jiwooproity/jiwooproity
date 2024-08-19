@@ -2,7 +2,7 @@
 
 I'm Jiwoo So, a Front-end developer.
 
-저는 프론트엔드 개발자를 맡고 있는 소지우입니다.
+저는 프론트엔드 개발자, 소지우입니다.
 
 ### Some about me
 
