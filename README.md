@@ -7,7 +7,7 @@ I'm Jiwoo So, a Front-end developer.
 ### Some about me
 
 < Work /> ―  
---
+
 
 < Hobby /> ―    
 I like to build custom keyboards and also develop various kinds of softwares.
